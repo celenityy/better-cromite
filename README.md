@@ -206,8 +206,6 @@ Available:
 
 * `#max-connections-per-host` -> `15`
 
-* `#sanitizer-api` -> `Enabled`
-
 <br>
 
 Cromite:
