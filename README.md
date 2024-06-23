@@ -58,7 +58,7 @@ Security -> Use secure DNS -> Choose another provider -> **Custom** -> Pick a pr
 
 Security -> Always incognito mode -> **Enable history** -> ❌
 
-Security -> **Close all open tabs on exit** -> ❌
+Security -> **Close all open tabs on exit** -> ✅
 
 Security -> **HTTP Referer header policy** -> `Disable if cross-origin and user begins navigation` ✅
 
@@ -170,7 +170,7 @@ Content -> **Intrusive ads** -> `Blocked on some sites` ❌
 
 Content -> **Protected content** -> `Blocked` ❌ - https://www.eff.org/deeplinks/2017/10/drms-dead-canary-how-we-just-lost-web-what-we-learned-it-and-what-we-need-do-next
 
-Content -> **Dark theme for sites** -> `On` ✅ *(See `chrome://flags` below)*
+Content -> **Dark theme for sites** -> `On` ✅
 
 Content -> **Background sync** -> `Blocked` ❌
 
@@ -192,7 +192,7 @@ Content -> **WebRTC** -> `Disabled` ❌ *(Will cause breakage with calling throu
 
 **Ask where to save files** -> ✅
 
-**Automatically open PDFs** -> ❌
+**Automatically open PDFs** -> ❌ *(Only set if you use a private & secure PDF viewer like [the one developed by GrapheneOS](https://github.com/GrapheneOS/PdfViewer)).*
 
 # About Cromite
 
@@ -204,8 +204,6 @@ Available:
 
 * `#android-open-pdf-inline` -> `Enabled`
 
-* `#max-connections-per-host` -> `15`
-
 <br>
 
 Cromite:
@@ -213,10 +211,6 @@ Cromite:
 * `#cleartext-permitted` -> `Disabled`
 
 * `#enable-show-ntp-at-startup` -> `Disabled`
-
-* `#share-intent-ui` -> `Disabled`
-
-* `#viewport-protection` -> `Enabled`
 
 # Additional recommendations
 
