@@ -2,7 +2,7 @@
 
 My recommendations for the ultimate configuration of the [Cromite](https://github.com/uazo/cromite) Browser :)
 
-**NOTE:** This project can be found on both [Codeberg](https://codeberg.org/Magnesium1062/better-cromite), which will act as the main & preferred way to contribute, and [GitHub](https://github.com/Retold3202/better-cromite).
+**NOTE:** This project can be found on both [Codeberg](https://codeberg.org/celenity/better-cromite), which will act as the main & preferred way to contribute, and [GitHub](https://github.com/celenityy/better-cromite).
 
 # Search engine
 
